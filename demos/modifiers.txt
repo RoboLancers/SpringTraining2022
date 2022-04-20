@@ -1,0 +1,7 @@
+BankUser
+
+    public static final bankName
+
+    public String name
+
+    private double balance

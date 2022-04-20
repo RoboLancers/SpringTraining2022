@@ -1,0 +1,16 @@
+helloMyNameIsMatt <- good
+
+hellomynameismatt <- bad
+
+
+
+myNumber <- bad
+userAge <- good
+
+
+
+// this is a single line comment
+
+/*
+    a multiline comment
+*/
