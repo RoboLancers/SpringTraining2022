@@ -1,0 +1,3 @@
+Create an interface for a simple FRC Command (include init, execute, isFinished, end)
+
+Make 2 classes that implement your FRC Command interface (for example: RunDrivetrain, RunIndexer, ShootBall, RunClimber)
